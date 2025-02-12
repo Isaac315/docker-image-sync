@@ -2,8 +2,8 @@ name: Docker Image Sync to Tencent Coding
 
 on:
   push:
-    paths:
-      - 'images.txt'
+    branches:
+      - main
 
 env:
   CODING_REGISTRY: ${{ secrets.CODING_REGISTRY }}  # 腾讯云 Coding 镜像仓库地址
