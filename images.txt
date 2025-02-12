@@ -1,1 +1,1 @@
-sickcodes/docker-osx:sonoma
+redis:6.0
