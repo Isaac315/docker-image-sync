@@ -1,7 +1,1 @@
-matrixorigin/matrixone:2.1.1
-opengauss/opengauss:7.0.0-RC1
-langgenius/dify-plugin-daemon:0.1.2-local
-langgenius/dify-web:1.5.0
-langgenius/dify-api:1.5.0
-pgvector/pgvector:pg16
-oceanbase/oceanbase-ce:4.3.5-lts
+vastdata/vastbase-vector:latest
