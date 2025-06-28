@@ -1,6 +1,5 @@
 matrixorigin/matrixone:2.1.1
 opengauss/opengauss:7.0.0-RC1
-vastdata/vastbase-vector
 langgenius/dify-plugin-daemon:0.1.2-local
 langgenius/dify-web:1.5.0
 langgenius/dify-api:1.5.0
