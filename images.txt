@@ -1,7 +1,9 @@
-langgenius/dify-api:0.15.1
-langgenius/dify-web:0.15.1
-langgenius/dify-sandbox:0.2.10
-ubuntu/squid:latest
-certbot/certbot:latest
-nginx:latest
-semitechnologies/weaviate:1.19.0
+matrixorigin/matrixone:2.1.1
+opengauss/opengauss:7.0.0-RC1
+vastdata/vastbase-vector
+langgenius/dify-plugin-daemon:0.1.2-local
+langgenius/dify-web:1.5.0
+langgenius/dify-api:1.5.0
+certbot/certbot
+pgvector/pgvector:pg16
+oceanbase/oceanbase-ce:4.3.5-lts
